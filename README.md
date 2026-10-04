@@ -38,10 +38,16 @@ no acompanhamento dos exercícios.
 - 
  Backend:
 - PHP
-- 
- Visão computacional
+  
+ Visão computacional:
 - MediaPipe
 - Detecção e acompanhamento de movimentos e exercícios
+ Banco de dados:
+- Supabase
+
+
+
+
 
 ### Diagramas e modelagem do sistema:
 
