@@ -35,13 +35,14 @@ no acompanhamento dos exercícios.
 - React
 - TypeScript
 - JavaScript
-- 
+ 
  Backend:
 - PHP
   
  Visão computacional:
 - MediaPipe
 - Detecção e acompanhamento de movimentos e exercícios
+ 
  Banco de dados:
 - Supabase
 
