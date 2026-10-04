@@ -68,13 +68,13 @@ tratamento de informações relacionadas aos pacientes.
 
 ## Status
 
-O Recure está em desenvolvimento, com evolução contínua da plataforma,
+A Recure está em desenvolvimento, com evolução contínua da plataforma,
 da arquitetura e dos recursos de acompanhamento dos exercícios.
 
 ## Código-fonte
 
 Por se tratar de um projeto de uma startup em desenvolvimento, o
-código-fonte completo do Recure não está disponível publicamente neste
+código-fonte completo da Recure não está disponível publicamente neste
 repositório.
 
 Caso haja interesse em conhecer ou avaliar o código-fonte, entre em
