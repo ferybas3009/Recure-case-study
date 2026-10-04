@@ -31,11 +31,11 @@ entre frontend, backend e os recursos de visão computacional empregados
 no acompanhamento dos exercícios.
 
 ## Stack tecnológica:
- Frontend
+ Frontend:
 - React
 - TypeScript
 - JavaScript
- Backend
+ Backend:
 - PHP
  Visão computacional
 - MediaPipe
